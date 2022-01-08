@@ -9,7 +9,7 @@ My capstone project, built with HTML, CSS and JAVASCRIPT to dominstrate all what
 
 ## Live Demo
 
-[Live Demo Link](https://sirriryisa.github.io/Portolio_mobile_view/#)
+[Live Demo Link](https://sirriryisa.github.io/Capstone-proj/)
 
 
 👤 **Author**
@@ -19,15 +19,20 @@ My capstone project, built with HTML, CSS and JAVASCRIPT to dominstrate all what
 
 
 **CREDIT**
+### UI/UX Designer
 
-- CC GLOBAL (Design layout)
+- [Cindy Shin](https://www.behance.net/adagio07)
+
+## Presentation video ##
+
+[Watch video here](https://www.loom.com/share/528ae4d6ef6b4d57aa3e5cce546598d9)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/SirriRyisa/Capstone-proj/issues).
 
 ## Show your support
 
